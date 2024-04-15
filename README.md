@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @boncedy ( Daranpob Sianghen)
+- 👋 Hi, I’m @boncedy ( Daranpob Sianghen )
 - 👀 I’m interested in Languages ( including Computer languages )
-- 🌱 I’m currently learning Comsci.
+- 🌱 I’m currently learning Comsci. ( not currently but I got an application for it in uni :D )
 - 💞️ I’m looking to collaborate on (...)
 - 📫 How to reach me: 47/3 mhoo 2 Thailand, Ratchaburi Banpong Nongor, 70110
 - 😄 Pronouns: Just call me Ball ( ik it's kinda weird but in Thailand it's normal haha )
