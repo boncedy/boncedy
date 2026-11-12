@@ -40,10 +40,9 @@ filtering and file uploads. **Live at [sketch-ref.vercel.app](https://sketch-ref
 
 ## Currently
 
-- Building out my portfolio around the projects above.
-- Sharpening data structures, algorithms and systems fundamentals.
-- Reading up on distributed-systems failure modes — which is where the kiosk project
-  started.
+- Building my portfolio from future works.
+- Enhancing software skills and get more familiar with tools.
+- Hardening current skills and fundamentals.
 
 ## Reach me
 
