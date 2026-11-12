@@ -1,7 +1,7 @@
 # Hi, I'm Daranpob (Ball) 👋
 
 Third-year Computer Science student at **Mahidol University** (Faculty of ICT),
-taking a major of **Software Engineering**.
+taking a minor of **Software Engineering**.
 
 ## Featured work
 
