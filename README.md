@@ -1,11 +1,7 @@
 # Hi, I'm Daranpob (Ball) 👋
 
 Third-year Computer Science student at **Mahidol University** (Faculty of ICT),
-specialising in **backend and API engineering**. I like the parts of software that are
-invisible when they work and expensive when they don't: idempotency, concurrency,
-data integrity, and tests that fail for the right reason.
-
-I'm currently looking for a **software engineering internship**.
+taking a major of **Software Engineering**.
 
 ## Featured work
 
